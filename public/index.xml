@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alex Handy</title>
+    <title>Home on Alex Handy</title>
     <link>/</link>
-    <description>Recent content on Alex Handy</description>
+    <description>Recent content in Home on Alex Handy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
@@ -26,7 +26,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
+      <description>Researching dementia prediction and treatment at King’s College London using multi-omics and data science.
+Experienced technology and strategy consultant, previously for PwC and Sky and currently delivering projects for Google.
+Looking for opportunities to use multi-omics and data science to build products that improve the diagnosis and treatment of neuropsychiatric disorders.
+Neuroscience MSc King&amp;rsquo;s College London (Distinction, end of year 1), 1st class BA from Cambridge
+Contact: alexander.handy@kcl.ac.uk
+Skills Bioinformatics and Data Science For MSc thesis developed remote server based analysis pipeline in R, Python and bash to assess genetic overlap between blood plasma proteins and Alzheimer&amp;rsquo;s Disease (AD) using Polygenic Risk Scores (PRS) and Mendelian Randomization (github repo).</description>
     </item>
     
   </channel>

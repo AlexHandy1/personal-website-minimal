@@ -33,13 +33,33 @@ img {
 
 .intro > h2 {
     color: #757575;
-    font-size: 3vmin;
+    font-size: 22px;
+    line-height: 1.6;
+}
+
+.homepage-content > h2 {
+    color: #757575;
+    font-size: 22px;
+    line-height: 1.6;
+    text-align: center;
 }
 
 /* Page content */
 
 .content {
     padding-top: 20px;
+}
+
+.content > h2 {
+    font-weight: bold;
+}
+
+.content > h3 {
+    font-weight: bold;
+}
+
+.content > h4 {
+    font-weight: bold;
 }
 
 /* Profile picture */

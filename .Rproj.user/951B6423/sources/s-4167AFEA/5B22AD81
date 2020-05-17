@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4241995868",
+    "hash" : "0",
     "id" : "5B22AD81",
-    "lastKnownWriteTime" : 1589722010,
-    "last_content_update" : 1589722010891,
+    "lastKnownWriteTime" : 1589728646,
+    "last_content_update" : 1589728646896,
     "path" : "~/Documents/Code/personal-website-minimal/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "1,12",
-        "scrollLine" : "0"
+        "cursorPosition" : "24,14",
+        "scrollLine" : "13"
     },
     "read_only" : false,
     "read_only_alternatives" : [
