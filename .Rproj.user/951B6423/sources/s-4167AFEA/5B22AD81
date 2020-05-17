@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589720798986.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5B22AD81",
+    "lastKnownWriteTime" : 1589721156,
+    "last_content_update" : 1589721156556,
+    "path" : "~/Documents/Code/personal-website-minimal/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "29,14",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
