@@ -2,10 +2,11 @@
 
 Code for personal website built using R blogdown package and Hugo and hosted on Netlify.  
 
-###To-do list
+### To-do list
 
 - Update "About" page  
+- Review SSL certificate issue  
 - Make footer element responsive on mobile  
-- Create introductory blog post and add page for "Blog" in page links
+- Create introductory blog post and add page for "Blog" in page links  
 
 

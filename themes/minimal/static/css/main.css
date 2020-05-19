@@ -44,6 +44,12 @@ img {
     text-align: center;
 }
 
+@media only screen and (max-width: 1024px) {
+  .homepage-content > h2 {
+    font-size: 16px;
+    }
+}
+
 /* Page content */
 
 .content {
@@ -125,4 +131,5 @@ a:hover {
 
 footer {
     border-bottom: var(--border-width) solid var(--accent);
+    margin-top: 75px;
 }
