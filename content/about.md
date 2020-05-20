@@ -28,10 +28,10 @@ Built [virtual reality web app prototype](https://github.com/AlexHandy1/vsportr-
     
 #### Technology and Product Strategy
 
-Lead commercial teams to conduct analysis to answer complex technology and product strategy questions.    
+Lead commercial teams to conduct analysis to answer complex technology and product strategy questions, for example:  
 
-How does broadband coverage and speed differ across the UK? -> Built analysis model integrating public and proprietary data to provide postcode level view of UK broadband network   
-
-How should we roll-out 4G internationally? -> Built financial model for global telecoms provider identifying £750m of potential savings.  
-
-How should we design our global media and entertainment cloud computing proposition? -> Conducted external market review and internal technology audit to construct sales proposition that was rolled out to international sales team.  
+* How does broadband coverage and speed differ across the UK? -> Built analysis model integrating public and proprietary data to provide postcode level view of UK broadband network   
+  
+* How should we roll-out 4G internationally? -> Built financial model for global telecoms provider identifying £750m of potential savings.  
+  
+* How should we design our global media and entertainment cloud computing proposition? -> Conducted external market review and internal technology audit to construct sales proposition that was rolled out to international sales team.  
