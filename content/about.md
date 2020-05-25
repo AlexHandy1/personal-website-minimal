@@ -2,9 +2,11 @@
 
 Researching dementia prediction and treatment at King’s College London using multi-omics and data science.  
 
-Experienced technology and strategy consultant, previously for PwC and Sky and currently delivering projects for Google.  
+Experienced technology and strategy consultant, previously for PwC and Sky and currently delivering projects for Google.   
 
-Looking for opportunities to use multi-omics and data science to build products that improve the diagnosis and treatment of neuropsychiatric disorders.  
+Previously, a freelance full-stack web developer following completion of Makers programming bootcamp.  
+
+Looking for opportunities to use multi-omics and data science to build products that improve the diagnosis and treatment of neuropsychiatric disorders. More on why [here](/post/butwhy).      
 
 Neuroscience MSc King's College London (Distinction, *end of year 1*), 1st class BA from Cambridge
 
@@ -22,7 +24,7 @@ Developing an interactive dashboard for results in R Markdown and Shiny [(work-i
 
 #### Software Development
 
-Professional experience as a freelance, full stack web developer following completion of Makers programming bootcamp where learnt agile, test-driven software development across two primary language stacks - Ruby (Ruby-on-Rails) and Javascript (MEAN JS including React/ React Native).  
+Professional experience as a freelance full stack web developer following completion of Makers programming bootcamp where learnt agile, test-driven software development across two primary language stacks - Ruby (Ruby-on-Rails) and Javascript (MEAN JS including React/ React Native).  
 
 Built [virtual reality web app prototype](https://github.com/AlexHandy1/vsportr-web-prototype) using Ruby-on-Rails and Javascript and developed data dashboard for predictive battery health startup.  
     

@@ -6,18 +6,20 @@
     <description>Recent content in Posts on Alex Handy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Why bioinformatics</title>
-      <link>/post/newpost/</link>
-      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      <title>But, Why?</title>
+      <link>/post/butwhy/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/newpost/</guid>
-      <description>Step 1. Why now&amp;hellip; </description>
+      <guid>/post/butwhy/</guid>
+      <description>Hi, I’m Alex. You might have just read a bit about me or perhaps we’re about to chat and you want to find out more about who I am.
+At this point, the most common question I get is, “But, why?”
+On paper, it is not obvious why having been a strategy consultant and software developer I am now researching dementia using multi-omics and data science and looking to use this experience to build products that improve the diagnosis and treatment of neuropsychiatric disorders.</description>
     </item>
     
   </channel>

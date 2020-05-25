@@ -64,6 +64,7 @@ img {
 
 .content {
     padding-top: 20px;
+    line-height: 1.8;
 }
 
 .content > h2 {
