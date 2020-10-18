@@ -1,6 +1,6 @@
 ---
 title: Home
 ---
-## Researching dementia prediction and treatment at King’s College London using multi-omics and data science.  
-## Looking to build products that improve the diagnosis and treatment of neuropsychiatric disorders.
+## Data scientist and senior research fellow at University College London's Institute of Health Informatics.  
+## Building natural language processing tools to improve the use of electronic health records for research and healthcare delivery.
 ## Find out more about me [here](/about)
