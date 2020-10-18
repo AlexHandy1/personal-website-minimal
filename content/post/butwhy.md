@@ -25,7 +25,7 @@ The longer answer is that multi-omics and data science combine the three things 
 
 **Continuous learning** - underpinning all the things I’ve done in my career is a relentless desire to keep learning new stuff. Multi-omics, data science and neuroscience are rapidly growing fields packed full of super smart people who want to share their knowledge. 
 
-So hopefully this helps answer *“why”*, but I’d love to talk more so if we aren’t already in contact please get in touch at alexander.handy@kcl.ac.uk. 
+So hopefully this helps answer *“why”*, but I’d love to talk more so if we aren’t already in contact please get in touch on [LinkedIn](https://www.linkedin.com/in/alex-handy-926342a/).  
 
 *[1) World Alzheimer Report 2019: Attitudes to dementia; World Alzheimer Report 2019: Attitudes to dementia.](https://www.alz.co.uk/research/world-report-2019)*
 
