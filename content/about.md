@@ -4,7 +4,7 @@ Data scientist and senior research fellow at University College London's Institu
 
 Currently, delivering Health Data Research UK’s National Text Analytics programme and building natural language processing tools to improve the use of electronic health records for research and healthcare delivery.   
 
-Particularly interested in using multi-omics and data science to improve the diagnosis and treatment of neuropsychiatric disorders. More on why [here](/post/butwhy).  
+Particularly interested in using multi-omics and data science to improve the diagnosis and treatment of neuropsychiatric disorders.
 
 Previously delivered technology and commercial strategy projects for PwC, Sky and Google (with MTM).   
 
